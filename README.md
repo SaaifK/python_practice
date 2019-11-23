@@ -1,4 +1,4 @@
-## Practiceing Python Function
+## Practicing Python Function
 
 Things learnt at _23rd November 2019_
 
